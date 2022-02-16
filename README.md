@@ -1,5 +1,5 @@
 # python_training_assignment
-Using the "primary school" and "matches" csv files and matplotlib pyhton library, below tasks are performed:
+Using the "primary school" and "matches" csv files and matplotlib python library, below tasks are performed:
 ### Task1 - Q1
 Plot number of schools per district
 ### Task1 - Q2
